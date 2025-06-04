@@ -1,0 +1,2 @@
+# Marketing-GPT
+MRketing assostant
