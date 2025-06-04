@@ -1,2 +1,2 @@
 # Marketing-GPT
-MRketing assostant
+Marketing Assistant
