@@ -1,6 +1,5 @@
 # Marketing-GPT
 Marketing Assistant
-# Creating a README.md for the GitHub repo
 
 readme_md = """
 # 💡 Fintech Performance Marketing GPT
