@@ -1,5 +1,3 @@
-# Marketing-GPT
-Marketing Assistant
 
 # 💡 Fintech Performance Marketing GPT
 
