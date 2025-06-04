@@ -1,7 +1,6 @@
 # Marketing-GPT
 Marketing Assistant
 
-readme_md = """
 # 💡 Fintech Performance Marketing GPT
 
 This is a Streamlit-based AI assistant designed to support performance marketing in the **B2C financial sector**. It uses OpenAI's GPT-4 and integrates with the Meta Ads API to generate ad copy, analyze campaigns, and suggest optimizations.
